@@ -1,0 +1,9 @@
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\sfml-graphics-d-3.dll
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\sfml-window-d-3.dll
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\sfml-system-d-3.dll
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\freetyped.dll
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\zd.dll
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\bz2d.dll
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\libpng16d.dll
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\brotlidec.dll
+C:\Users\Studio\source\repos\sfml-game\x64\Debug\brotlicommon.dll

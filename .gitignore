@@ -1,0 +1,14 @@
+# Папки сборки CMake
+/build/
+/.cmake/
+
+# Временные файлы IDE (Visual Studio, CLion, VS Code)
+/.vs/
+/out/
+/.idea/
+/.vscode/
+*.user
+
+# Бинарники и логи
+*.exe
+*.log
